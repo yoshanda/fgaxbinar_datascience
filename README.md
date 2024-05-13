@@ -1,2 +1,6 @@
-<h1>Final Project DTS FGA 2024 x Binar Academy - Data Science<h1>
-Repositori ini berisi penyelesaian challenge pada program Digital Talent Scolarship Fresh Graduate Academy 2024 x Binar Academy - Data Science. Challenge ini berfokus pada perancangan dashboard interaktif kasus Covid-19 Indonesia dan prediksi customer churn di perusahaan telekomunikasi dengan menggunakan machine learning.
+# Final Project DTS FGA x Binar Academy 2024 - Data Science
+  
+Repositori ini berisi penyelesaian challenge pada program Digital Talent Scolarship Fresh Graduate Academy x Binar Academy 2024 - Data Science. Challenge ini terdiri dari 2 challenge, dimana challenge pertama berfokus pada pengolahan data dengan menggunakan SQL dan perancangan dashboard interaktif kasus Covid-19 Indonesia. Sementara pada challenge kedua berfokus pada pembuatan model machine learning untuk memprediksi customer churn di perusahaan telekomunikasi.
+
+## Challenge 1 - Merancang Dashboard Interaktif Covid-19 Indonesia
+![Dashboard Covid-19](URL_gambar)
