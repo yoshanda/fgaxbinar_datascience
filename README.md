@@ -15,3 +15,5 @@ Di era digital yang dipenuhi dengan persaingan yang ketat di industri telekomuni
 **Objective**
 <br>
 Membangun model klasifikasi menggunakan machine learning yang dapat mengenali dan memprediksi customer yang berpotensi untuk melakukan churn (berhenti berlangganan/beralih) dari layanan telekomunikasi. Dengan demikian perusahaan dapat melakukan pengambilan keputusan yang proaktif dalam mempertahankan customer dan meningkatkan retensi customer secara efektif.
+
+Google Colab: [FGA-DS-CHALLENGE 2](https://colab.research.google.com/drive/15lKbqP9Am0PBbyVhpGdvsdNVXefAOK98?usp=sharing)
